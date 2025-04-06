@@ -26,3 +26,11 @@ Selamat menggunakan! Jangan lupa untuk memberikan ⭐️ jika kamu menyukai temp
 
 ## Preview
 
+![image](https://github.com/user-attachments/assets/11617b92-7bf9-47a5-b367-f869e7c02ea3)
+![image](https://github.com/user-attachments/assets/e4d9176e-07a7-466c-a721-3308285e0d55)
+![image](https://github.com/user-attachments/assets/bb72b436-0f60-4361-8afc-726ddf958869)
+![image](https://github.com/user-attachments/assets/b66a2032-c551-4ccb-808c-274748e38a43)
+![image](https://github.com/user-attachments/assets/2a850128-4dae-45e1-abd7-5fd282beba4b)
+
+
+
