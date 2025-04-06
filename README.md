@@ -17,8 +17,12 @@ Template ini dirancang agar tampil lebih modern, bersih, dan responsif, serta me
 2. **Ekstrak** folder hasil unduhan ke dalam direktori `template/` milik SLiMS.
 3. **Login** sebagai Super Admin ke sistem SLiMS.
 4. **Aktifkan template** melalui menu: `System → Theme`, lalu pilih `ios`.
-5. **Lihat hasilnya** di halaman OPAC.
+5. **Lihat hasilnya** di halaman OPAC.![preview](https://github.com/user-attachments/assets/d454e338-1988-44aa-b34a-0bbc104d4976)
+
 
 ---
 
 Selamat menggunakan! Jangan lupa untuk memberikan ⭐️ jika kamu menyukai template ini.
+
+## Preview
+
