@@ -6,7 +6,7 @@
  *
  * Copyright (C) 2015 Arie Nugraha (dicarve@gmail.com)
  * Create by Eddy Subratha (eddy.subratha@slims.web.id)
- *
+ * Modified by Erwan Sety0 Budi (erwans818@gmail.com)
  * Slims 8 (Akasia)
  *
  * This program is free software; you can redistribute it and/or modify
@@ -22,9 +22,11 @@
  * You should have received a copy of the GNU General Public License
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
- */
+*/
 use SLiMS\Url;
+
 $label_cache = array();
+
 /**
  *
  * Format bibliographic item list for OPAC display
