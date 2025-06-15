@@ -6,8 +6,8 @@
  *
  * Copyright (C) 2015 Arie Nugraha (dicarve@gmail.com)
  * Create by Eddy Subratha (eddy.subratha@slims.web.id)
- * Modified by Erwan Sety0 Budi (erwans818@gmail.com)
- * Slims 8 (Akasia)
+ * Modified by Erwan Setyo Budi (erwans818@gmail.com)
+ * File Name : biblio_list_template.php
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
