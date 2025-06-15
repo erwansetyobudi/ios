@@ -1,5 +1,14 @@
 <?php
 
+# ===============================
+# Ios Like Theme SLiMS
+# ===============================
+# @Author: Erwan Setyo Budi
+# @Email:  erwans818@gmail.com
+# @Date:   2025-04-06T11:25:57+07:00
+# @Last modified by:   Erwan Setyo Budi
+# @Last modified time:  2025-04-06T11:25:57+07:00
+
 
 $imagesDisk = \SLiMS\Filesystems\Storage::images();
 
