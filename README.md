@@ -1,6 +1,6 @@
 # 📚 Template SLiMS "ios"
 
-Template untuk SLiMS versi 9.6 Bulian, terinspirasi oleh desain modern dari situs [onesearch.id](https://onesearch.id) pada tahun 2025.
+Template untuk SLiMS versi 9.6 Bulian, terinspirasi oleh desain modern dari situs [onesearch.id](https://onesearch.id) pada tahun 2025. Berharap agar lebih banyak perpustakaan yang meng-indek-an datannya ke onesearch 
 
 ## ✨ Tentang Template
 
