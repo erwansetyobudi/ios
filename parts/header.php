@@ -90,6 +90,7 @@ $request_uri = urlencode(strip_tags(urldecode($_SERVER['REQUEST_URI'])));
     }
     ?>
     <link rel="shortcut icon" href="<?= $icon ?>" type="image/x-icon"/>
+    <link rel="icon" href="<?= $icon ?>" type="image/png">
 
     <!-- // load vue js -->
     <script src="<?php echo assets('js/vue.min.js'); ?>"></script>
@@ -131,3 +132,4 @@ $request_uri = urlencode(strip_tags(urldecode($_SERVER['REQUEST_URI'])));
 
 </head>
 <body class="bg-grey-lightest">
+
